@@ -1,0 +1,4 @@
+prompts:
+  - id: "generic-prompt"
+    version: "1.0.0"
+    system_template: "You are a helpful assistant."
